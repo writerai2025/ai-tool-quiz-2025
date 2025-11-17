@@ -1,6 +1,6 @@
 # AI Writing Tool Quiz 2025 🚀
 
-**Live site:** https://yourusername.github.io/ai-tool-quiz-2025/
+**Live site:** https://writerai2025.github.io/ai-tool-quiz-2025/
 
 A 30-second interactive quiz that recommends the perfect AI writing tool based on budget, use-case, and features. Built to go viral on Reddit, X, Pinterest & TikTok.
 
